@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jamalhasanovv</h1>
 <h3 align="center">A passionate back-end developer from Azerbaijan</h3>
 
-<p align="left"> <img src="(https://github.com/jamalhasanovv/jamalhasanovv/assets/158070728/ef1c3ec9-1496-4009-b304-6cfdb0cd8f97)(https://github.com/jamalhasanovv/jamalhasanovv/assets/158070728/545622d3-af09-4fb0-9dc0-fa6dc669abaa)" /> </p>
+<p align="left"> <img src="(https://github.com/jamalhasanovv/jamalhasanovv/assets/158070728/545622d3-af09-4fb0-9dc0-fa6dc669abaa)" /> </p>
 
 - 📫 How to reach me **camal.hasanovv@gmail.com**
 
